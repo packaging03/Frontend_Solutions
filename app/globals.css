@@ -65,19 +65,19 @@ body {
 .seconds-hand {
   padding-top: 20px;
   width: 1px;
-  transform: rotate(30deg);
+  /* transform: rotate(30deg); */
 }
 
 .minutes-hand {
   padding-top: 10px;
   width: 3px;
-  transform: rotate(10deg);
+  /* transform: rotate(10deg); */
 }
 
 .hours-hand {
   padding-top: 30px;
   width: 5px;
-  transform: rotate(180deg);
+  /* transform: rotate(180deg); */
 }
 
 .seconds-hand span {
